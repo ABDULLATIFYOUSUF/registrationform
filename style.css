@@ -1,0 +1,54 @@
+select{
+    border-color: lightgreen;
+    width:  44%;
+    height: 8.5ch;
+}
+input{
+    border-color: lightgreen;
+    width:  44%;
+    height: 8ch;
+}
+table{
+    text-align: left;
+    width: 203%;
+    height: 8ch;
+}
+body{
+    text-align: center;
+}
+p{
+    color: blue;
+    text-align: left;
+}
+
+form{
+    text-align: center;
+    width: 10%;
+    height: 15ch;
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 1ch;
+    margin-left: 5%;
+}
+textarea{
+    margin: 3%;
+    text-align: left;
+    width: 100%;
+    border-color: white;
+    border-style: hidden;
+    margin-top: 1%;
+    margin-bottom: 0%;
+    
+}
+ol{
+    text-align: left;
+    margin: 3%;
+    margin-top: 0%;
+    
+}
+button{
+    width: 90%;
+    height: 8ch;
+    color: black;
+    background-color: blue
+}
